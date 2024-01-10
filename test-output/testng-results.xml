@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-04T17:42:48 EST" name="Default suite" finished-at="2024-01-04T17:43:00 EST" duration-ms="12204">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T17:42:48 EST" name="Default test" finished-at="2024-01-04T17:43:00 EST" duration-ms="12204">
+      <class name="uk.co.automationtesting.AddRemoveItemBasketTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@2dde1bff]" started-at="2024-01-04T17:42:48 EST" name="setup" finished-at="2024-01-04T17:42:51 EST" duration-ms="2990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRemoveItem()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@2dde1bff]" started-at="2024-01-04T17:42:51 EST" name="addRemoveItem" finished-at="2024-01-04T17:43:00 EST" duration-ms="9079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:uk.co.automationtesting.AddRemoveItemBasketTest@2dde1bff]" started-at="2024-01-04T17:43:00 EST" name="tearDown" finished-at="2024-01-04T17:43:00 EST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.automationtesting.AddRemoveItemBasketTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
